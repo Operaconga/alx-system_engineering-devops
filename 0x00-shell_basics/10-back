@@ -1,2 +1,2 @@
-#!/bin/bash 
- echo $OLDPWD
+#!/bin/bash
+echo $OLDPWD
